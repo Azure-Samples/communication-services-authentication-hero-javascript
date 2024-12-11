@@ -32,7 +32,7 @@
     "express": "~4.21.1",
     "express-jwt": "^7.7.5",
     "express-jwt-authz": "^2.4.1",
-    "express-session": "^1.17.1",
+    "express-session": "^1.18.1",
     "jwks-rsa": "^2.0.5"
   },
   "devDependencies": {
